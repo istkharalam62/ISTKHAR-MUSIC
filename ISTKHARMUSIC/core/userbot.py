@@ -93,7 +93,7 @@ class Userbot(Client):
             try:
                 await self.two.join_chat("CRAZY_OP_02")
                 await self.two.join_chat("THUNDERDEVS")
-            except:
+           
                 pass
             assistants.append(2)
             try:
