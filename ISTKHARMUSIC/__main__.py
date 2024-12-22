@@ -48,14 +48,14 @@ async def init():
     await ISTKHAR.start()
     await ISTKHAR.decorators()
     await restart_bots()
-    LOGGER("ISTKHARMUSIC").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("ISTKHARMUSIC").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗜𝗦𝗧𝗞𝗛𝗔𝗥♨️\n╚═════ஜ۩۞۩ஜ════╝")
     await idle()
 
     await app.stop()
     await userbot.stop()
 
     LOGGER("ISTKHARMUSIC").info(
-        "                 ╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛♨️\n╚═════ஜ۩۞۩ஜ════╝"
+        "                 ╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗜𝗦𝗧𝗞𝗛𝗔𝗥♨️\n╚═════ஜ۩۞۩ஜ════╝"
     )
 
 
