@@ -13,7 +13,7 @@ from pyrogram.errors import (
     UserAlreadyParticipant,
     UserNotParticipant,
 )
-from ISTKHARMUSIC.utils.ISTKHAR_ban import admin_filter
+from ISTKHARMUSIC.utils.istkhar_ban import admin_filter
 from ISTKHARMUSIC.utils.decorators.userbotjoin import UserbotWrapper
 from ISTKHARMUSIC.utils.database import get_assistant, is_active_chat
 
