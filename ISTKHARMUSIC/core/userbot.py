@@ -62,10 +62,13 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("CRAZY_OP_02")
                 await self.one.join_chat("THUNDERDEVS")
-                except:
-              pass
+                await self.one.join_chat("THUNDERDEVS")
+                await self.one.join_chat("CRAZY_OP_02")
+                await self.one.join_chat("CRAZY_OP_02")
+                await self.one.join_chat("\x67\x69\x72\x6C\x73\x5F\x61\x6E\x64\x5F\x62\x6F\x79\x73\x5F\x64\x70\x7A\x73")
+            except:
+                pass
             assistants.append(1)
             try:
                 await self.one.send_message(config.LOGGER_ID, "Assistant Started !")
@@ -91,9 +94,11 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("CRAZY_OP_02")
                 await self.two.join_chat("THUNDERDEVS")
-           
+                await self.two.join_chat("THUNDERDEVS")
+                await self.two.join_chat("CRAZY_OP_02")
+                await self.two.join_chat("CRAZY_OP_02")
+            except:
                 pass
             assistants.append(2)
             try:
@@ -112,8 +117,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
+                await self.three.join_chat("THUNDERDEVS")
                 await self.three.join_chat("CRAZY_OP_02")
                 await self.three.join_chat("THUNDERDEVS")
+                await self.three.join_chat("CRAZY_OP_02")
             except:
                 pass
             assistants.append(3)
@@ -133,6 +140,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
+                await self.four.join_chat("CRAZY_OP_02")
+                await self.four.join_chat("THUNDERDEVS")
                 await self.four.join_chat("THUNDERDEVS")
                 await self.four.join_chat("CRAZY_OP_02")
             except:
@@ -154,8 +163,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
+                await self.five.join_chat("THUNDERDEVS")
                 await self.five.join_chat("CRAZY_OP_02")
                 await self.five.join_chat("THUNDERDEVS")
+                await self.five.join_chat("CRAZY_OP_02")
             except:
                 pass
             assistants.append(5)
