@@ -19,7 +19,7 @@ from ISTKHARMUSIC import app, userbot
 from ISTKHARMUSIC.misc import SUDOERS
 from pyrogram import *
 from pyrogram.types import *
-from ISTKHARMUSIC.utils.ISTKHAR_ban import admin_filter
+from ISTKHARMUSIC.utils.istkhar_ban import admin_filter
 import random
 from pyrogram import Client, filters
 from pyrogram.types import ChatJoinRequest, InlineKeyboardButton, InlineKeyboardMarkup
@@ -33,7 +33,7 @@ from pyrogram.enums import ParseMode
 from pyrogram import *
 from pyrogram.types import *
 from logging import getLogger
-from ISTKHARMUSIC.utils.ISTKHAR_ban import admin_filter
+from ISTKHARMUSIC.utils.istkhar_ban import admin_filter
 import os
 from ISTKHARMUSIC.misc import SUDOERS
 from PIL import ImageDraw, Image, ImageFont, ImageChops
