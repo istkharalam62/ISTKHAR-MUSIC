@@ -258,7 +258,7 @@ async def greet_new_member(
 **🔸 ɪᴅ »** `{user.id}`
 **▪️ ᴜ_ɴᴀᴍᴇ »** @{user.username}
 **▫️ ᴛᴏᴛᴀʟ ᴍᴇᴍʙᴇʀs »** {count}
-**▫️ ᴍᴀᴅᴇ ʙʏ »** [sʜɪᴠᴀɴsʜ-xᴅ](https://t.me/SHIVANSH474)
+**▫️ ᴍᴀᴅᴇ ʙʏ »** [ᴛʜᴜɴᴅᴇʀ-xᴅ](https://t.me/THUNDERDEVS)
 ▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 **💠─────✧❅✦❅✧─────💠**
