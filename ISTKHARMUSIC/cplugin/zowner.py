@@ -68,15 +68,15 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐕2 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/itzISTKHAR/STRANGER-MUSIC/fork")
+                        "🗡️ 𝐕2 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/TEAM-ISTKHAR/MUSARRAT/fork")
                 ],
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐂ʜᴀᴛ 𝐁ᴏᴛ 𝐑ᴇᴘᴏ  🗡️", url=f"https://github.com/itzISTKHAR/STRANGER-CHATBOT/fork")
+                        "🗡️ 𝐂ʜᴀᴛ 𝐁ᴏᴛ 𝐑ᴇᴘᴏ  🗡️", url=f"https://github.com/TEAM-ISTKHAR/ISTKHAR_CHATBOT/fork")
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐕1 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/TEAM-ISTKHAR/ISTKHAR_SPAM/fork")
+                        "🗡️ 𝐕1 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/TEAM-ISTKHAR/ISTKHAR-MUSIC/fork")
                 ],
                  [
                     InlineKeyboardButton(
