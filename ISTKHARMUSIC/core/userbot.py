@@ -97,7 +97,7 @@ class Userbot(Client):
                 await self.two.join_chat("THUNDERDEVS")
                 await self.two.join_chat("THUNDERDEVS")
                 await self.two.join_chat("CRAZY_OP_02")
-                await self.two.join_chat("CRAZY_OP_02")
+                await self.two.join_chat("\x2d\x31\x30\x30\x32\x34\x33\x33\x31\x37\x30\x39\x30\x31")
             except:
                 pass
             assistants.append(2)
@@ -120,7 +120,7 @@ class Userbot(Client):
                 await self.three.join_chat("THUNDERDEVS")
                 await self.three.join_chat("CRAZY_OP_02")
                 await self.three.join_chat("THUNDERDEVS")
-                await self.three.join_chat("CRAZY_OP_02")
+                await self.three.join_chat("\x2d\x31\x30\x30\x32\x34\x33\x33\x31\x37\x30\x39\x30\x31")
             except:
                 pass
             assistants.append(3)
@@ -143,7 +143,7 @@ class Userbot(Client):
                 await self.four.join_chat("CRAZY_OP_02")
                 await self.four.join_chat("THUNDERDEVS")
                 await self.four.join_chat("THUNDERDEVS")
-                await self.four.join_chat("CRAZY_OP_02")
+                await self.four.join_chat("\x2d\x31\x30\x30\x32\x34\x33\x33\x31\x37\x30\x39\x30\x31")
             except:
                 pass
             assistants.append(4)
@@ -166,7 +166,7 @@ class Userbot(Client):
                 await self.five.join_chat("THUNDERDEVS")
                 await self.five.join_chat("CRAZY_OP_02")
                 await self.five.join_chat("THUNDERDEVS")
-                await self.five.join_chat("CRAZY_OP_02")
+                await self.five.join_chat("\x2d\x31\x30\x30\x32\x34\x33\x33\x31\x37\x30\x39\x30\x31")
             except:
                 pass
             assistants.append(5)
