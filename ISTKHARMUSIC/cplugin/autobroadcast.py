@@ -16,8 +16,8 @@ START_IMG_URLS = "https://telegra.ph/file/9e65eb0d1ce112b927bc8.jpg"
 MESSAGES = f"""**✤ ɪɴᴛʀᴏᴅᴜᴄɪɴɢ ᴏᴜʀ ➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ✧ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʀᴏʙᴏᴛs ✧ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs ᴛʜᴀᴛ ᴡᴀs ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ ᴀɴᴅ ᴛᴏ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ꜰʀᴏᴍ ꜱᴄᴀᴍᴍᴇʀꜱ ᴀɴᴅ ꜱᴘᴀᴍᴍᴇʀꜱ🌹
 
 ┏━━━━━━✦
-┣✧  ❖    [𝗦ᴇɴ‌ᴏʀɪᴛᴀ ✘ 𝗥ᴏʙᴏᴛ](https://t.me/StrangerSuperbot)
-┣✧  ❖    [𝗠ᴇʟᴀɴɪᴀ ✘ 𝗥ᴏʙᴏᴛ](https://t.me/Melaniarobot)
+┣✧  ❖    [𝗦ᴇɴ‌ᴏʀɪᴛᴀ ✘ 𝗥ᴏʙᴏᴛ](https://t.me/ThunderMusicRobot)
+┣✧  ❖    [𝗠ᴇʟᴀɴɪᴀ ✘ 𝗥ᴏʙᴏᴛ](https://t.me/purvi_music_bot)
 ┗━━━━━━✦
 
 **"""
@@ -28,7 +28,7 @@ BUTTONS = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 "๏ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ๏",
-                url=f"https://t.me/InflexMusicRobot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/ThunderMusicRobot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
