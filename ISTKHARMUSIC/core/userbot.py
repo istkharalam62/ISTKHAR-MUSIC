@@ -64,9 +64,8 @@ class Userbot(Client):
             try:
                 await self.one.join_chat("CRAZY_OP_02")
                 await self.one.join_chat("THUNDERDEVS")
-                
                 except:
-                pass
+              pass
             assistants.append(1)
             try:
                 await self.one.send_message(config.LOGGER_ID, "Assistant Started !")
