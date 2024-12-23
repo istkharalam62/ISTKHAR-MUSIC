@@ -4,7 +4,7 @@ from ISTKHARMUSIC import app, userbot
 from ISTKHARMUSIC.misc import SUDOERS
 from pyrogram import filters, Client
 from pyrogram.types import *
-from ISTKHARMUSIC.utils.ISTKHAR_ban import admin_filter
+from ISTKHARMUSIC.utils.istkhar_ban import admin_filter
 
 
 ISTKHAR_text = [
